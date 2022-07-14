@@ -10,7 +10,8 @@ body{
 h1{
     padding-bottom: 10px;
     font-size: 35px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: poppins;
+    font-weight: 500;
 }
 main{
     width: 90vw;
@@ -29,7 +30,8 @@ ul{
 li{
     list-style: none;
     font-size: 15px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 200;
+    font-family: poppins;
 }
 .first{
     width: 50%;
@@ -77,6 +79,8 @@ p{
     text-align: center;
     margin-top: 7px;
     color: black;
+    font-family: poppins;
+    font-weight: 200;
 }
 p> a{
     color: red;
